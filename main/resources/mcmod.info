@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "diggys_goofy_gems",
+  "name": "Diggy's Goofy Gems",
+  "description": "A mod that adds some gems to Minecraft, along with other stuff.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["DiggyPT"],
+  "credits": "my cat",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
