@@ -1,0 +1,40 @@
+//items
+
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.tanzanite.name=Tanzanite
+
+item.axe_ruby.name=Ruby Axe
+item.pickaxe_ruby.name=Ruby Pickaxe
+item.shovel_ruby.name=Ruby Shovel
+item.sword_ruby.name=Ruby Sword
+item.hoe_ruby.name=Ruby Hoe
+item.multitool_ruby.name=Ruby Multitool
+
+item.axe_sapphire.name=Sapphire Axe
+item.pickaxe_sapphire.name=Sapphire Pickaxe
+item.shovel_sapphire.name=Sapphire Shovel
+item.sword_sapphire.name=Sapphire Sword
+item.hoe_sapphire.name=Sapphire Hoe
+item.multitool_sapphire.name=Sapphire Multitool
+
+item.axe_tanzanite.name=Tanzanite Axe
+item.pickaxe_tanzanite.name=Tanzanite Pickaxe
+item.shovel_tanzanite.name=Tanzanite Shovel
+item.sword_tanzanite.name=Tanzanite Sword
+item.hoe_tanzanite.name=Tanzanite Hoe
+item.multitool_tanzanite.name=Tanzanite Multitool
+
+//blocks
+
+tile.block_ruby.name=Block of Ruby
+tile.block_sapphire.name=Block of Sapphire
+tile.block_tanzanite.name=Block of Tanzanite
+
+tile.ore_ruby.name=Ruby Ore
+tile.ore_sapphire.name=Sapphire Ore
+tile.ore_tanzanite.name=Tanzanite Ore
+tile.ore_single_emerald.name=Just One Emerald Ore
+
+tile.blue_bomb.name=Blue Bomb
+tile.gem_spikes.name=Gem Spikes

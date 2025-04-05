@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "diggys_goofy_gems:blocks/block_sapphire"
+    }
+}

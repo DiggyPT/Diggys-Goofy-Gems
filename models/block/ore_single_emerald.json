@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "diggys_goofy_gems:blocks/stoney",
+    "up": "diggys_goofy_gems:blocks/stoney",
+    "north": "diggys_goofy_gems:blocks/ore_single_emerald",
+    "south": "diggys_goofy_gems:blocks/stoney",
+    "west": "diggys_goofy_gems:blocks/stoney",
+    "east": "diggys_goofy_gems:blocks/stoney"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "diggys_goofy_gems:blocks/blue_bomb_bottom",
+    "up": "diggys_goofy_gems:blocks/blue_bomb_top",
+    "north": "diggys_goofy_gems:blocks/blue_bomb_side",
+    "south": "diggys_goofy_gems:blocks/blue_bomb_side",
+    "west": "diggys_goofy_gems:blocks/blue_bomb_side",
+    "east": "diggys_goofy_gems:blocks/blue_bomb_side"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "diggys_goofy_gems:blocks/gem_spikes_side",
+    "up": "diggys_goofy_gems:blocks/gem_spikes_top",
+    "north": "diggys_goofy_gems:blocks/gem_spikes_side",
+    "south": "diggys_goofy_gems:blocks/gem_spikes_side",
+    "west": "diggys_goofy_gems:blocks/gem_spikes_side",
+    "east": "diggys_goofy_gems:blocks/gem_spikes_side"
+  }
+}
